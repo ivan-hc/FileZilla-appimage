@@ -43,7 +43,6 @@ if [ ! -f ./archimage-builder.sh ]; then
 	ARCHIMAGE_BUILDER="https://raw.githubusercontent.com/ivan-hc/ArchImage/refs/heads/main/core/archimage-builder.sh"
 	wget --retry-connrefused --tries=30 "$ARCHIMAGE_BUILDER" -O ./archimage-builder.sh || exit 0
 fi
-sed -i 's/ mesa / /g' ./archimage-builder.sh
 
 # Create and enter the AppDir
 mkdir -p AppDir archlinux && cd archlinux || exit 1
