@@ -3,8 +3,6 @@ Unofficial. The free FTP solution with support for FTP over TLS and SFTP. This i
 
 <img width="1137" height="864" alt="Istantanea_2025-11-19_13-01-39" src="https://github.com/user-attachments/assets/07652354-e28d-4156-9ccb-0eac6aca0046" />
 
-See [here](https://github.com/ivan-hc/Database-of-pkg2appimaged-packages/releases/tag/filezilla-server) for the "server" edition.
-
 ------------------------------------------------------------------------
 
 ## Install and update it with ease
